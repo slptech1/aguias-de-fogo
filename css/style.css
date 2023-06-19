@@ -1,15 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Roboto:wght@400;500;700&display=swap');
-
 *{
     font-family: 'DM Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
-
 h1, h2, h3, h4, h5, p, summary{
     color: white;
 }
 h6{
     color: #EB5E28;
+    font-size: 14px;
 }
 
 .navbar ul{
@@ -22,7 +21,6 @@ h6{
     width: 100%;
     background-color: #252422;
 }
-
 .navbar li {
     float: left;
     position: relative;
@@ -30,7 +28,6 @@ h6{
     bottom: 0px;
     padding: 15px 0 10px 0;
 }
-
 .navbar li a{
     font-family: DM Sans;
     font-style: Regular;
@@ -64,4 +61,23 @@ li a:hover {
     position: relative;
     left: 750px;
     bottom: 35px;
+}
+
+.hero .header h6{
+    font-size: 18px;
+    position: relative;
+    top: 200px;
+    left: 175px;
+}
+.hero .header h1{
+    font-size: 48px;
+    position: relative;
+    top: 160px;
+    left: 175px;
+}
+.hero .header p{
+    font-size: 20px;
+    position: relative;
+    top: 145px;
+    left: 175px;
 }
