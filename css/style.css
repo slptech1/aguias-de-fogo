@@ -65,19 +65,22 @@ li a:hover {
 
 .hero .header h6{
     font-size: 18px;
-    position: relative;
-    top: 200px;
-    left: 175px;
+    margin: 200px 0px 0px 177px;
 }
 .hero .header h1{
     font-size: 48px;
-    position: relative;
-    top: 160px;
-    left: 175px;
+    margin: 20px 0px 0px 177px;
 }
 .hero .header p{
     font-size: 20px;
+    margin: 10px 0px 0px 177px;
+}
+
+.cards .carousel img{
+    width: 300px;
+    margin-top: 350px;
+    padding: 5px;
+    align-items: center;
     position: relative;
-    top: 145px;
-    left: 175px;
+    left: 180px;
 }
