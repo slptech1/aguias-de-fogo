@@ -80,10 +80,8 @@ li a:hover {
 }
 .cards .carousel img{
     width: 300px;
-    margin-top: 350px;
+    margin: 350px 0px 0px 0px;
     padding: 5px;  
-    position: relative;
-    left: 180px;
 }
 
 .experiencia h6{
@@ -92,7 +90,7 @@ li a:hover {
 }
 .experiencia h2{
     font-size: 38px;
-    margin: 20px 0px 0px 700px;
+    margin: 10px 0px 0px 700px;
 }
 .experiencia p{
     text-align: center;
@@ -112,4 +110,32 @@ li a:hover {
 }
 .experiencia .button:hover{
     background-color: #d65725;
+}
+
+.sobre h6{
+    font-size: 17px;
+    margin: 350px 0px 0px 1520px;
+}
+.sobre h2{
+    font-size: 38px;
+    margin: 10px 0px 0px 1147px;
+}
+.sobre p{
+    text-align: right;
+    font-size: 18px;
+    margin: 20px 185px 40px 40px;
+}
+.sobre .img{  
+    margin: 20px 0px 20px 1205px;
+}
+.sobre .button{
+    text-decoration: none;
+    background-color: #EB5E28;
+    color: white;
+    font-family: DM Sans;
+    font-style: Regular;
+    font-size: 18px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 15px;
+    margin: 0px 0px 0px 1560px;
 }
