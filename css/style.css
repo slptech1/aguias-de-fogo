@@ -135,11 +135,14 @@ li a:hover {
     margin: 20px 185px 40px 40px;
 }
 .sobre .sobre-image{  
-    margin: 20px 0px 20px 1205px;
+    position: relative;
+    bottom: 300px;
+    left: 350px;
 }
 .sobre .button{
     margin: 0px 0px 0px 1560px;
 }
+
 
 .seguranca h6{
     margin: 350px 0px 0px 400px;
@@ -168,8 +171,15 @@ li a:hover {
     width: 56px;
     height: 46px;
 }
-.seguranca .cta-img{
-    width: 18%;
-    height: 28%;
-    margin: 45px 0px 0px 1200px;
+.seguranca .img{
+    position: relative;
+    left: 1100px;
+    bottom: 720px;
+    width: 22%;
+    height: 22%;
 }
+
+
+
+
+
