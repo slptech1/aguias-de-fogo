@@ -229,3 +229,11 @@ li a:hover {
     top: 40px;
     left: 850px;
 }
+
+
+.cta{
+    background-color: #403D39;
+    padding: 85px;
+    margin: 0px 250px 0px 250px;
+    border-radius: 30px;
+}
