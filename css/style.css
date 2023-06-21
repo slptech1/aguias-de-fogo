@@ -180,6 +180,18 @@ li a:hover {
 }
 
 
-
+.testemonials{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 350px;
+    bottom: 400px;
+}
+.testemonials .case1{
+    padding-right: 120px;
+}
+.testemonials .case2{
+    padding-right: 120px;
+}
 
 
