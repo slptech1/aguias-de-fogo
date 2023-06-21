@@ -3,6 +3,9 @@
     font-family: 'DM Sans', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+html, body{
+    overflow-x: hidden;
+}
 h1, h3, h4, h5, summary{
     color: white;
 }
@@ -145,7 +148,7 @@ li a:hover {
 
 
 .seguranca h6{
-    margin: 350px 0px 0px 400px;
+    margin-left: 400px;
 }
 .seguranca h2{
     margin: 10px 0px 0px 400px;
