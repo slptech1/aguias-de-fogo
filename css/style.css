@@ -249,12 +249,17 @@ li a:hover {
     font-size: 18px;
     font-weight: bold;
 }
+.faq-wrapper{
+    position: relative;
+    left: 40px;
+}
 .faq .question-1{
     padding: 25px;
     margin: 60px 500px 0px 500px;
     background-color: #403D39;
     border-radius: 15px;
     width: 680px;
+    cursor: pointer;
 }
 .faq .question-2{
     padding: 25px;
@@ -262,6 +267,7 @@ li a:hover {
     background-color: #403D39;
     border-radius: 15px;
     width: 680px;
+    cursor: pointer;
 }
 .faq .question-3{
     padding: 25px;
@@ -269,6 +275,7 @@ li a:hover {
     background-color: #403D39;
     border-radius: 15px;
     width: 680px;
+    cursor: pointer;
 }
 .faq .question-4{
     padding: 25px;
@@ -276,6 +283,7 @@ li a:hover {
     background-color: #403D39;
     border-radius: 15px;
     width: 680px;
+    cursor: pointer;
 }
 .faq .question-5{
     padding: 25px;
@@ -283,6 +291,7 @@ li a:hover {
     background-color: #403D39;
     border-radius: 15px;
     width: 680px;
+    cursor: pointer;
 }
 .faq .question-6{
     padding: 25px;
@@ -290,6 +299,7 @@ li a:hover {
     background-color: #403D39;
     border-radius: 15px;
     width: 680px;
+    cursor: pointer;
 }
 .faq .question-7{
     padding: 25px;
@@ -297,6 +307,7 @@ li a:hover {
     background-color: #403D39;
     border-radius: 15px;
     width: 680px;
+    cursor: pointer;
 }
 .faq .question-8{
     padding: 25px;
@@ -304,6 +315,7 @@ li a:hover {
     background-color: #403D39;
     border-radius: 15px;
     width: 680px;
+    cursor: pointer;
 }
 
 
