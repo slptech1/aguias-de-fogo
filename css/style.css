@@ -6,11 +6,19 @@
 html, body{
     overflow-x: hidden;
 }
-h1, h3, h4, h5, summary{
+h1, h5, summary{
     color: white;
 }
 h2{
     font-size: 38px;
+    color: white;
+}
+h3{
+    font-size: 20px;
+    color: #252422;
+}
+h5{
+    font-size: 15px;
     color: white;
 }
 h6{
@@ -153,6 +161,9 @@ li a:hover {
 .seguranca h2{
     margin: 10px 0px 0px 400px;
 }
+.seguranca h3{
+    color: white;
+}
 .seguranca img{
     width: 46px;
     height: 51px;
@@ -189,6 +200,10 @@ li a:hover {
     position: relative;
     left: 350px;
     bottom: 400px;
+}
+.testemonials h5{
+    position: relative;
+    bottom: 15px;   
 }
 .testemonials .case1{
     padding-right: 120px;
@@ -319,6 +334,117 @@ li a:hover {
     border-radius: 15px;
     width: 680px;
     cursor: pointer;
+}
+
+
+.contato{
+    background-color: #403D39;
+    border-radius: 30px;
+    margin-top: 350px;
+    width: 715px;
+    position: relative;
+    left: 400px;
+    margin-left: 150px;
+}
+.contato .contact-form h6{
+    padding-top: 55px;
+    margin-left: 220px;
+}
+.contato .contact-form h2{
+    margin-left: 110px;
+    position: relative;
+    bottom: 42px;
+}
+.contato .contact-form .title-txt{
+    position: relative;
+    bottom: 65px;
+    right: 0px;
+    text-align: center;
+}
+.contato .contact-form .input-nome{
+    position: relative;
+    left: 110px;
+    bottom: 45px;
+}
+.contato .contact-form .input-nome input{
+    box-sizing: border-box;
+    width: 450px;
+    padding: 15px;
+    background-color: #252422;
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 10px;
+    outline: none;
+    font-size: 18px;
+    color: white;
+
+}
+.contato .contact-form .input-email{
+    position: relative;
+    left: 110px;
+    bottom: 30px;
+}
+.contato .contact-form .input-email input{
+    box-sizing: border-box;
+    width: 450px;
+    padding: 15px;
+    background-color: #252422;
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 10px;
+    outline: none;
+    font-size: 18px;
+    color: white;
+}
+.contato .contact-form .input-celular{
+    position: relative;
+    left: 110px;
+    bottom: 15px;
+}
+.contato .contact-form .input-celular input{
+    box-sizing: border-box;
+    width: 450px;
+    padding: 15px;
+    background-color: #252422;
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 10px;
+    outline: none;
+    font-size: 18px;
+    color: white;
+}
+.contato .submit input{
+    text-decoration: none;
+    background-color: #EB5E28;
+    color: white;
+    font-family: DM Sans;
+    font-style: Regular;
+    font-size: 18px;
+    padding: 10px 200px 10px 200px;
+    border-radius: 15px;
+    position: relative;
+    left: 110px;
+    border-color: transparent;
+}
+.submit input:hover {
+    background-color: #d65725;
+}
+.contato .checkbox input{
+    margin-top: 40px;
+    margin-left: 110px;
+}
+.contato .checkbox p{
+    position: relative;
+    left: 130px;
+    bottom: 38px;
+}
+.contato .checkbox p a{
+   text-decoration: none;
+   color: #EB5E28;
+}
+.contato .checkbox p a:hover{
+   text-decoration: none;
+   color: #d65725;
 }
 
 
